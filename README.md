@@ -32,6 +32,6 @@ Use this bibtex to cite this repository:
   year={2019},
   publisher={Github},
   journal={GitHub repository},
-  howpublished={\url{https://github.com/ricardobnjunior/Machine-Lerning}},
+  howpublished={\url{https://github.com/ricardobnjunior/Machine-Learning}},
 }
 ```
